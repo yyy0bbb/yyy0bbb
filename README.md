@@ -1,4 +1,4 @@
-## Hi there 👋
+## 제 깃허브에 오신 걸 환영합니다~! 👋
 
 <!--
 **yyy0bbb/yyy0bbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
